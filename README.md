@@ -1,4 +1,4 @@
-# CICIDS2017-MechineLearning
+# CICIDS2017-MachineLearning
 Multi-classification based CICIDS2017 with Machine Learning
 
 ## Introduction
