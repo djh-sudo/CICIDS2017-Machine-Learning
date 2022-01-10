@@ -47,4 +47,4 @@ scikit-learn == 0.19.1
 dummies = pd.get_dummies(X)
 y = dummies.values
 ```
-
+3.不要混合使用`keras`和 `tensorflow`的同名`API`!
